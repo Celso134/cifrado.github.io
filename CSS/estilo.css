@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: #48cf2f;
+font-size: 12px;
+font-family: consolas, monospaced;
+}
+
+header{
+    font-size: 15px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+color: green;
+}
+
+textarea{
+    align-items: center;
+}
+
+.enun{
+    	font-size: 15px;
+	justify-content: justify;
+}
+
+.boxi{
+	border: 2px solid #154213;
+	border-radius: 3px;
+}
